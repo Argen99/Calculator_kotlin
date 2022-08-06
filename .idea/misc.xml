@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/Desktop/Android Studio/Calculator2/app/src/main/res/drawable/bg_button.xml" value="0.152" />
+        <entry key="..\:/Users/User/Desktop/Android Studio/Calculator2/app/src/main/res/drawable/bg_num_button.xml" value="0.152" />
         <entry key="..\:/Users/User/Desktop/Android Studio/Calculator2/app/src/main/res/layout/activity_main.xml" value="0.19" />
       </map>
     </option>
